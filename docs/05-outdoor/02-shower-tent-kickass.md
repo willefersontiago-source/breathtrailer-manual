@@ -1,4 +1,3 @@
-02-shower-tent-kickass.md
 # Shower Tent – KickAss
 
 This section explains the setup, use, and care of the **KickAss Camping Shower Tent Awning** installed on the BreathTrailer.
