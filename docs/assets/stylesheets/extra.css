@@ -1,7 +1,8 @@
-/* =========================
-   GLOBAL LOOK & FEEL
-========================= */
+/* =====================================================
+   BREATH TRAILER — PREMIUM MATERIAL OVERRIDE
+===================================================== */
 
+/* -------- COLOR SYSTEM -------- */
 :root {
   --bt-bg: #f5f7f8;        /* off-white premium */
   --bt-card: #ffffff;
@@ -9,58 +10,54 @@
   --bt-text: #1f2933;
 }
 
-/* Page background */
-body {
+/* -------- GLOBAL BACKGROUND -------- */
+.md-container,
+.md-main {
   background-color: var(--bt-bg);
 }
 
-/* Content container */
-.md-content {
-  background: transparent;
-}
-
-/* Main content width */
+/* -------- CONTENT WRAPPER -------- */
 .md-content__inner {
   max-width: 920px;
   margin: 0 auto;
-  padding: 2rem 1.5rem;
+  padding: 3rem 1.5rem;
 }
 
-/* Typography */
+/* -------- TYPOGRAPHY -------- */
 .md-typeset {
   font-size: 1.05rem;
   line-height: 1.7;
   color: var(--bt-text);
 }
 
-/* Headings */
 .md-typeset h1 {
-  font-size: 2.2rem;
+  font-size: 2.4rem;
   font-weight: 600;
   text-align: center;
 }
 
 .md-typeset h2 {
-  font-size: 1.6rem;
+  font-size: 1.7rem;
   font-weight: 600;
-  margin-top: 3rem;
+  margin-top: 3.5rem;
   text-align: center;
 }
 
-/* Paragraphs */
+/* -------- PARAGRAPHS (HOME-STYLE) -------- */
 .md-typeset p {
-  text-align: cent
-/* =========================
-   HOME PAGE CARDS
-========================= */
+  max-width: 760px;
+  margin: 1rem auto;
+  text-align: center;
+}
 
+/* -------- DIVIDERS -------- */
 .md-typeset hr {
   border: none;
   border-top: 1px solid var(--bt-border);
   margin: 3rem 0;
 }
 
-/* Card blocks */
+/* -------- CARD BLOCKS (HOME) -------- */
 .md-typeset ul {
   list-style: none;
   padding: 0;
@@ -69,10 +66,36 @@ body {
 .md-typeset ul li {
   background: var(--bt-card);
   border: 1px solid var(--bt-border);
-  border-radius: 12px;
-  padding: 1.5rem;
-  margin: 1rem auto;
+  border-radius: 14px;
+  padding: 1.8rem;
+  margin: 1.2rem auto;
   max-width: 760px;
   text-align: center;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.04);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.05);
 }
+
+/* -------- NAVIGATION PREMIUM -------- */
+.md-nav {
+  font-size: 0.95rem;
+}
+
+.md-nav__title {
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.md-nav__link {
+  border-radius: 6px;
+}
+
+.md-nav__link--active {
+  background: rgba(0, 150, 136, 0.14);
+  font-weight: 600;
+}
+
+/* -------- FOOTER CLEANUP -------- */
+.md-footer {
+  display: none;
+}
+
