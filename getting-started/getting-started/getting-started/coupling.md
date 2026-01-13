@@ -1,1 +1,0 @@
-getting-started/coupling.md
