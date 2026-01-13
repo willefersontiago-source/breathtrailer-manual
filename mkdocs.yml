@@ -16,12 +16,13 @@ theme:
     primary: blue grey
     accent: teal
 
-  features:
+ features:
     - navigation.instant
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - content.code.copy
+    - navigation.tracking
+    - toc.follow
 
 nav:
   - Quick Start: index.md

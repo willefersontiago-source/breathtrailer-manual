@@ -78,3 +78,53 @@
 .md-footer {
   display: none;
 }
+
+/* ==============================
+   SIDEBAR NAVIGATION – PREMIUM
+============================== */
+
+/* Sidebar background */
+.md-sidebar {
+  background-color: #f8fafc;
+}
+
+/* Section titles */
+.md-nav__title {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #64748b;
+  margin: 1.2rem 0 0.4rem;
+}
+
+/* Navigation links */
+.md-nav__link {
+  font-size: 0.9rem;
+  padding: 0.45rem 0.75rem;
+  border-radius: 6px;
+  color: #1f2933;
+}
+
+/* Hover */
+.md-nav__link:hover {
+  background-color: rgba(15, 23, 42, 0.05);
+}
+
+/* Active item */
+.md-nav__link--active {
+  background-color: rgba(14, 165, 164, 0.18);
+  color: #0f172a;
+  font-weight: 600;
+}
+
+/* Nested items (sub-pages) */
+.md-nav__item--nested > .md-nav__link {
+  font-weight: 600;
+  color: #0f172a;
+}
+
+/* Remove left border clutter */
+.md-nav__item .md-nav__link::before {
+  display: none;
+}
