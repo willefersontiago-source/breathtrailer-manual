@@ -1,52 +1,78 @@
-/* ===== GLOBAL TYPOGRAPHY ===== */
+/* =========================
+   GLOBAL LOOK & FEEL
+========================= */
 
+:root {
+  --bt-bg: #f5f7f8;        /* off-white premium */
+  --bt-card: #ffffff;
+  --bt-border: #e0e3e7;
+  --bt-text: #1f2933;
+}
+
+/* Page background */
+body {
+  background-color: var(--bt-bg);
+}
+
+/* Content container */
+.md-content {
+  background: transparent;
+}
+
+/* Main content width */
+.md-content__inner {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* Typography */
 .md-typeset {
   font-size: 1.05rem;
   line-height: 1.7;
+  color: var(--bt-text);
 }
 
-/* ===== CENTER MAIN CONTENT (HOME + PAGES) ===== */
-
-.md-content__inner {
-  max-width: 900px;
-  margin: 0 auto;
+/* Headings */
+.md-typeset h1 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  text-align: center;
 }
 
-/* ===== CENTER TITLES ===== */
-
-.md-typeset h1,
 .md-typeset h2 {
-  text-align: center;
+  font-size: 1.6rem;
   font-weight: 600;
+  margin-top: 3rem;
+  text-align: center;
 }
 
-/* ===== CENTER PARAGRAPHS ON HOME ===== */
-
+/* Paragraphs */
 .md-typeset p {
-  text-align: center;
+  text-align: cent
+/* =========================
+   HOME PAGE CARDS
+========================= */
+
+.md-typeset hr {
+  border: none;
+  border-top: 1px solid var(--bt-border);
+  margin: 3rem 0;
 }
 
-/* ===== HERO IMAGE ===== */
+/* Card blocks */
+.md-typeset ul {
+  list-style: none;
+  padding: 0;
+}
 
-.md-typeset img {
-  display: block;
-  margin: 2rem auto;
+.md-typeset ul li {
+  background: var(--bt-card);
+  border: 1px solid var(--bt-border);
   border-radius: 12px;
-}
-
-/* ===== PREMIUM NAVIGATION ===== */
-
-.md-nav__title {
-  font-weight: 600;
-  letter-spacing: 0.03em;
-}
-
-.md-nav__link {
-  font-size: 0.95rem;
-}
-
-/* ===== REMOVE VISUAL CLUTTER ===== */
-
-.md-footer {
-  display: none;
+  padding: 1.5rem;
+  margin: 1rem auto;
+  max-width: 760px;
+  text-align: center;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.04);
 }
