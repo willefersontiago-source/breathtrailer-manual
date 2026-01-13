@@ -7,21 +7,21 @@ theme:
   name: material
   language: en
 
+  font:
+    text: Inter
+    code: JetBrains Mono
+
   palette:
     scheme: default
-    primary: blue
+    primary: blue grey
     accent: teal
-
-  font:
-    text: Roboto
-    code: Source Code Pro
 
   features:
     - navigation.instant
     - navigation.sections
+    - navigation.expand
     - navigation.top
     - content.code.copy
-    - header.autohide
 
 nav:
   - Quick Start: index.md

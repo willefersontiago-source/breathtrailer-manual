@@ -1,69 +1,80 @@
-/* =============================
-   BREATH TRAILER MANUAL – STYLE
-   Matched to breathtrailer.com
-============================= */
+/* ==============================
+   BREATH TRAILER – BRAND STYLE
+============================== */
 
-/* Global text color */
 :root {
+  --md-default-bg-color: #f4f6f7;
   --md-default-fg-color: #1f2933;
-  --md-default-bg-color: #ffffff;
-  --md-accent-fg-color: #0078cc;
-  --md-accent-bg-color: #f5f7f8;
+  --md-default-fg-color--light: #64748b;
+
+  --md-primary-fg-color: #0f172a;
+  --md-accent-fg-color: #0ea5a4;
+
+  --bt-card-bg: #ffffff;
+  --bt-border: #e2e8f0;
 }
 
-/* Body & main container */
-.md-container, .md-main {
+/* Background */
+.md-container,
+.md-main {
   background-color: var(--md-default-bg-color);
 }
 
-/* Adjust spacing */
+/* Content width */
 .md-content__inner {
-  padding: 2.2rem 1.5rem;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
 }
 
 /* Headings */
 .md-typeset h1 {
-  color: var(--md-default-fg-color);
+  color: var(--md-primary-fg-color);
   font-size: 2.6rem;
   font-weight: 700;
   text-align: center;
 }
 
 .md-typeset h2 {
-  color: var(--md-default-fg-color);
-  font-size: 1.8rem;
+  color: var(--md-primary-fg-color);
+  font-size: 1.9rem;
   font-weight: 600;
-  margin-top: 2.4rem;
+  margin-top: 3rem;
   text-align: center;
 }
 
 /* Paragraphs */
 .md-typeset p {
   color: var(--md-default-fg-color);
+  max-width: 760px;
+  margin: 1rem auto;
   text-align: center;
-  max-width: 780px;
-  margin: 0.8rem auto;
 }
 
-/* Card-style lists */
+/* Card style blocks (home & lists) */
+.md-typeset ul {
+  list-style: none;
+  padding: 0;
+}
+
 .md-typeset ul li {
-  background: var(--md-accent-bg-color);
-  border-radius: 8px;
-  padding: 1.4rem;
-  margin: 1rem auto;
+  background: var(--bt-card-bg);
+  border: 1px solid var(--bt-border);
+  border-radius: 14px;
+  padding: 1.6rem;
+  margin: 1.2rem auto;
   max-width: 760px;
   text-align: center;
-  border: 1px solid #e0e3e7;
-  box-shadow: 0 4px 14px rgba(0,0,0,0.05);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.05);
 }
 
-/* Navigation links */
+/* Active navigation */
 .md-nav__link--active {
-  background-color: rgba(0,120,204,0.15);
+  background-color: rgba(14, 165, 164, 0.18);
   font-weight: 600;
 }
 
-/* Remove default footer */
+/* Remove footer */
 .md-footer {
   display: none;
 }
