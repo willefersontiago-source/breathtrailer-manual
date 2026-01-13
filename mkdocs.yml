@@ -68,3 +68,8 @@ nav:
 
 extra_css:
   - assets/stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

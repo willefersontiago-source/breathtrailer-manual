@@ -128,3 +128,33 @@
 .md-nav__item .md-nav__link::before {
   display: none;
 }
+
+/* ==============================
+   ADMONITIONS – BREATH TRAILER
+============================== */
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 12px;
+  font-size: 0.95rem;
+}
+
+/* Warning */
+.md-typeset .admonition.warning {
+  border-left: 4px solid #dc2626;
+}
+
+/* Important */
+.md-typeset .admonition.important {
+  border-left: 4px solid #f59e0b;
+}
+
+/* Tip */
+.md-typeset .admonition.tip {
+  border-left: 4px solid #0ea5a4;
+}
+
+/* Note */
+.md-typeset .admonition.note {
+  border-left: 4px solid #3b82f6;
+}
