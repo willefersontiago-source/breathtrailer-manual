@@ -1,4 +1,5 @@
 site_name: BreathTrailer Owner’s Manual
+site_url: https://willefersontiago-source.github.io/breathtrailer-manual/
 site_description: Official BreathTrailer Technical Documentation
 site_author: BreathTrailer
 
@@ -44,3 +45,4 @@ nav:
       - Troubleshooting: 08-maintenance/03-troubleshooting.md
   - Support:
       - Contact & Support: 09-support/01-contact.md
+
