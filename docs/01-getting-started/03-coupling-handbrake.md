@@ -8,9 +8,9 @@ Correct coupling is essential for safe towing and legal road use.
 
 ## Coupling System Overview
 
-The BreathTrailer is equipped with a **70mm electric brake trailer coupling** with an integrated **manual handbrake**.
+The BreathTrailer is equipped with a **50mm electric brake trailer coupling** with an integrated **manual handbrake**.
 
-⚠️ Only a **70mm tow ball** must be used.  
+⚠️ Only a **50mm tow ball** must be used.  
 Using an incorrect tow ball size is unsafe and illegal.
 
 ---
@@ -22,7 +22,7 @@ Follow these steps every time you connect the trailer to a vehicle:
 1. Park the tow vehicle on level ground and apply the vehicle handbrake.
 2. Ensure the trailer handbrake is **engaged**.
 3. Raise the trailer using the jockey wheel.
-4. Align the coupling directly above the 70mm tow ball.
+4. Align the coupling directly above the 50mm tow ball.
 5. Lower the coupling onto the tow ball until fully seated.
 6. Push the coupling handle **down firmly** until it locks.
 7. Attach the safety chains to the vehicle, **crossed underneath the coupling**.
