@@ -6,6 +6,10 @@ site_author: BreathTrailer
 theme:
   name: material
   language: en
+  palette:
+    scheme: default
+    primary: blue grey
+    accent: teal
   features:
     - navigation.instant
     - navigation.sections
@@ -47,4 +51,5 @@ nav:
       - Contact & Support: 09-support/01-contact.md
 extra_css:
   - assets/stylesheets/extra.css
+
 
