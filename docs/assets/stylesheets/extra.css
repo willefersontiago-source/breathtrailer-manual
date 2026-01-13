@@ -1,35 +1,31 @@
 /* =====================================================
-   BREATH TRAILER — PREMIUM MATERIAL OVERRIDE
+   BREATH TRAILER — MATERIAL THEME OVERRIDE (CORRETO)
 ===================================================== */
 
-/* -------- COLOR SYSTEM -------- */
 :root {
-  --bt-bg: #f5f7f8;        /* off-white premium */
-  --bt-card: #ffffff;
-  --bt-border: #e0e3e7;
-  --bt-text: #1f2933;
+  /* Backgrounds */
+  --md-default-bg-color: #f5f7f8;
+  --md-default-fg-color: #1f2933;
+
+  /* Cards / surfaces */
+  --md-accent-bg-color: #ffffff;
+  --md-accent-fg-color: #009688;
+
+  /* Borders */
+  --md-default-fg-color--light: #e0e3e7;
+
+  /* Typography */
+  --md-text-font-size: 1.05rem;
 }
 
-/* -------- GLOBAL BACKGROUND -------- */
-.md-container,
-.md-main {
-  background-color: var(--bt-bg);
-}
-
-/* -------- CONTENT WRAPPER -------- */
+/* ===== CONTENT WIDTH ===== */
 .md-content__inner {
   max-width: 920px;
   margin: 0 auto;
   padding: 3rem 1.5rem;
 }
 
-/* -------- TYPOGRAPHY -------- */
-.md-typeset {
-  font-size: 1.05rem;
-  line-height: 1.7;
-  color: var(--bt-text);
-}
-
+/* ===== HEADINGS ===== */
 .md-typeset h1 {
   font-size: 2.4rem;
   font-weight: 600;
@@ -43,29 +39,22 @@
   text-align: center;
 }
 
-/* -------- PARAGRAPHS (HOME-STYLE) -------- */
+/* ===== PARAGRAPHS ===== */
 .md-typeset p {
   max-width: 760px;
   margin: 1rem auto;
   text-align: center;
 }
 
-/* -------- DIVIDERS -------- */
-.md-typeset hr {
-  border: none;
-  border-top: 1px solid var(--bt-border);
-  margin: 3rem 0;
-}
-
-/* -------- CARD BLOCKS (HOME) -------- */
+/* ===== HOME PAGE CARDS ===== */
 .md-typeset ul {
   list-style: none;
   padding: 0;
 }
 
 .md-typeset ul li {
-  background: var(--bt-card);
-  border: 1px solid var(--bt-border);
+  background: var(--md-accent-bg-color);
+  border: 1px solid var(--md-default-fg-color--light);
   border-radius: 14px;
   padding: 1.8rem;
   margin: 1.2rem auto;
@@ -74,28 +63,19 @@
   box-shadow: 0 10px 24px rgba(0,0,0,0.05);
 }
 
-/* -------- NAVIGATION PREMIUM -------- */
-.md-nav {
-  font-size: 0.95rem;
-}
-
+/* ===== NAVIGATION ===== */
 .md-nav__title {
   font-weight: 600;
   letter-spacing: 0.05em;
   text-transform: uppercase;
 }
 
-.md-nav__link {
-  border-radius: 6px;
-}
-
 .md-nav__link--active {
-  background: rgba(0, 150, 136, 0.14);
+  background-color: rgba(0, 150, 136, 0.15);
   font-weight: 600;
 }
 
-/* -------- FOOTER CLEANUP -------- */
+/* ===== FOOTER ===== */
 .md-footer {
   display: none;
 }
-
