@@ -10,7 +10,7 @@ The fridge is designed for efficient off-grid operation and is powered directly 
 
 The BreathTrailer is equipped with a **12V refrigerator**, with capacity depending on the trailer model:
 
-- 30L or
+- 30L
 - 60L
 
 The fridge operates automatically once power is supplied and does not require connection to camp site electricity.
