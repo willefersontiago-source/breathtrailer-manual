@@ -1,0 +1,46 @@
+site_name: BreathTrailer Owner’s Manual
+site_description: Official BreathTrailer Technical Documentation
+site_author: BreathTrailer
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - content.tabs.link
+    - content.code.copy
+
+nav:
+  - Quick Start: index.md
+  - Getting Started:
+      - Introduction: 01-getting-started/01-introduction.md
+      - Safety Information: 01-getting-started/02-safety.md
+      - Coupling & Handbrake: 01-getting-started/03-coupling-handbrake.md
+  - Power Systems:
+      - Battery Charging: 02-power/01-battery-charging.md
+      - 12V Power System: 02-power/02-power-12v.md
+      - Inverter & City Power: 02-power/03-inverter-city-power.md
+      - Solar Power: 02-power/04-solar.md
+  - Water Systems:
+      - Hot Water System: 03-water/01-hot-water-kickass.md
+      - Water Tanks: 03-water/02-water-tanks.md
+      - Kitchen Sink: 03-water/03-kitchen-sink.md
+  - Appliances:
+      - Fridge: 04-appliances/01-fridge.md
+  - Outdoor Equipment:
+      - Awning: 05-outdoor/01-awning-kings.md
+      - Shower Tent: 05-outdoor/02-shower-tent-kickass.md
+  - Trailer Features:
+      - Double Door & Flyscreen: 06-trailer-features/01-double-door-flyscreen.md
+  - Electrical:
+      - 15A Power Lead: 07-electrical/01-power-lead-15a.md
+      - Extra Solar Input: 07-electrical/02-extra-solar-input.md
+  - Maintenance:
+      - Daily Operation: 08-maintenance/01-daily-operation.md
+      - Maintenance: 08-maintenance/02-maintenance.md
+      - Troubleshooting: 08-maintenance/03-troubleshooting.md
+  - Support:
+      - Contact & Support: 09-support/01-contact.md
