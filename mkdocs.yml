@@ -45,4 +45,6 @@ nav:
       - Troubleshooting: 08-maintenance/03-troubleshooting.md
   - Support:
       - Contact & Support: 09-support/01-contact.md
+extra_css:
+  - assets/stylesheets/extra.css
 

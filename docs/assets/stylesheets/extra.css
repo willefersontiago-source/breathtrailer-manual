@@ -1,0 +1,52 @@
+/* ===== GLOBAL TYPOGRAPHY ===== */
+
+.md-typeset {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* ===== CENTER MAIN CONTENT (HOME + PAGES) ===== */
+
+.md-content__inner {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* ===== CENTER TITLES ===== */
+
+.md-typeset h1,
+.md-typeset h2 {
+  text-align: center;
+  font-weight: 600;
+}
+
+/* ===== CENTER PARAGRAPHS ON HOME ===== */
+
+.md-typeset p {
+  text-align: center;
+}
+
+/* ===== HERO IMAGE ===== */
+
+.md-typeset img {
+  display: block;
+  margin: 2rem auto;
+  border-radius: 12px;
+}
+
+/* ===== PREMIUM NAVIGATION ===== */
+
+.md-nav__title {
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+.md-nav__link {
+  font-size: 0.95rem;
+}
+
+/* ===== REMOVE VISUAL CLUTTER ===== */
+
+.md-footer {
+  display: none;
+}
