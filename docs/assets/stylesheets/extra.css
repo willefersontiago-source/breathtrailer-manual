@@ -1,81 +1,69 @@
-/* =====================================================
-   BREATH TRAILER — MATERIAL THEME OVERRIDE (CORRETO)
-===================================================== */
+/* =============================
+   BREATH TRAILER MANUAL – STYLE
+   Matched to breathtrailer.com
+============================= */
 
+/* Global text color */
 :root {
-  /* Backgrounds */
-  --md-default-bg-color: #f5f7f8;
   --md-default-fg-color: #1f2933;
-
-  /* Cards / surfaces */
-  --md-accent-bg-color: #ffffff;
-  --md-accent-fg-color: #009688;
-
-  /* Borders */
-  --md-default-fg-color--light: #e0e3e7;
-
-  /* Typography */
-  --md-text-font-size: 1.05rem;
+  --md-default-bg-color: #ffffff;
+  --md-accent-fg-color: #0078cc;
+  --md-accent-bg-color: #f5f7f8;
 }
 
-/* ===== CONTENT WIDTH ===== */
+/* Body & main container */
+.md-container, .md-main {
+  background-color: var(--md-default-bg-color);
+}
+
+/* Adjust spacing */
 .md-content__inner {
-  max-width: 920px;
-  margin: 0 auto;
-  padding: 3rem 1.5rem;
+  padding: 2.2rem 1.5rem;
 }
 
-/* ===== HEADINGS ===== */
+/* Headings */
 .md-typeset h1 {
-  font-size: 2.4rem;
-  font-weight: 600;
+  color: var(--md-default-fg-color);
+  font-size: 2.6rem;
+  font-weight: 700;
   text-align: center;
 }
 
 .md-typeset h2 {
-  font-size: 1.7rem;
+  color: var(--md-default-fg-color);
+  font-size: 1.8rem;
   font-weight: 600;
-  margin-top: 3.5rem;
+  margin-top: 2.4rem;
   text-align: center;
 }
 
-/* ===== PARAGRAPHS ===== */
+/* Paragraphs */
 .md-typeset p {
-  max-width: 760px;
-  margin: 1rem auto;
+  color: var(--md-default-fg-color);
   text-align: center;
+  max-width: 780px;
+  margin: 0.8rem auto;
 }
 
-/* ===== HOME PAGE CARDS ===== */
-.md-typeset ul {
-  list-style: none;
-  padding: 0;
-}
-
+/* Card-style lists */
 .md-typeset ul li {
   background: var(--md-accent-bg-color);
-  border: 1px solid var(--md-default-fg-color--light);
-  border-radius: 14px;
-  padding: 1.8rem;
-  margin: 1.2rem auto;
+  border-radius: 8px;
+  padding: 1.4rem;
+  margin: 1rem auto;
   max-width: 760px;
   text-align: center;
-  box-shadow: 0 10px 24px rgba(0,0,0,0.05);
+  border: 1px solid #e0e3e7;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.05);
 }
 
-/* ===== NAVIGATION ===== */
-.md-nav__title {
-  font-weight: 600;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-}
-
+/* Navigation links */
 .md-nav__link--active {
-  background-color: rgba(0, 150, 136, 0.15);
+  background-color: rgba(0,120,204,0.15);
   font-weight: 600;
 }
 
-/* ===== FOOTER ===== */
+/* Remove default footer */
 .md-footer {
   display: none;
 }

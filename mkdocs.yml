@@ -6,17 +6,22 @@ site_author: BreathTrailer
 theme:
   name: material
   language: en
+
   palette:
     scheme: default
-    primary: blue grey
+    primary: blue
     accent: teal
+
+  font:
+    text: Roboto
+    code: Source Code Pro
+
   features:
     - navigation.instant
     - navigation.sections
-    - navigation.expand
     - navigation.top
-    - content.tabs.link
     - content.code.copy
+    - header.autohide
 
 nav:
   - Quick Start: index.md
