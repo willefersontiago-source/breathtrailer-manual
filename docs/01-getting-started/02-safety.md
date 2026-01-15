@@ -17,7 +17,7 @@ This section contains important safety instructions for the safe operation, towi
 
 ## Towing & Road Safety
 
-- Always ensure the trailer coupling is correctly locked onto a **70mm tow ball**.
+- Always ensure the trailer coupling is correctly locked onto a **50mm tow ball**.
 - Safety chains must be attached and crossed underneath the coupling.
 - Ensure the trailer handbrake is fully released before towing.
 - Verify that the electrical plug is connected and functioning correctly.
