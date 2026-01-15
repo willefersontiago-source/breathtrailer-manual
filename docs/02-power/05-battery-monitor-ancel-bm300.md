@@ -1,4 +1,6 @@
-Battery Monitor – ANCEL BM300 Pro
+Battery Monitor
+
+ANCEL BM300 Pro
 
 The trailer is equipped with an ANCEL BM300 Pro Smart Battery Monitor, designed to provide real-time battery health monitoring and system diagnostics via a mobile application.
 
