@@ -34,11 +34,11 @@ The primary charging source is the **solar panel mounted on top of the trailer**
 
 The battery can also be charged using **camp site electricity**.
 
-### Installed Battery Charger
+!!! tip "Installed Battery Charger"
 
 A **22A / 32A battery charger** is installed inside the trailer box.
 
-### How to Charge Using Camp Site Power
+!!! tip "How to Charge Using Camp Site Power"
 
 1. Connect the supplied **15A power lead** to the camp site outlet.
 2. Plug the other end into the trailer box power inlet.
