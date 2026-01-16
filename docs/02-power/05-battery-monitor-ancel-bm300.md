@@ -1,92 +1,87 @@
 # Battery Monitor – ANCEL BM300 Pro
 
-The trailer is equipped with an ANCEL BM300 Pro Smart Battery Monitor, designed to provide real-time battery health monitoring and system diagnostics via a mobile application.
+## Overview
 
-This device allows continuous monitoring of the battery condition, helping prevent unexpected power issues during travel or off-grid use.
+The BreathTrailer is equipped with an **ANCEL BM300 Pro Smart Battery Monitor**, providing real-time battery health monitoring, charging diagnostics, and historical performance data through a mobile application.
 
-Overview
+This system allows owners to **actively monitor battery condition**, helping prevent unexpected power loss during off-grid or campsite operation.
 
-The ANCEL BM300 Pro is a low-power smart battery tester compatible with 6V, 12V, and 24V systems, suitable for trailer, vehicle, and auxiliary battery monitoring.
+---
 
-Operating Voltage Range: 3V – 35V
+## System Capabilities
 
-Average Current Consumption: 1mA
+!!! info "Real-Time Monitoring"
+    The ANCEL BM300 Pro continuously monitors battery voltage and system health, providing live data directly to your smartphone.
 
-Battery Types Supported: 6V / 12V / 24V vehicle batteries
+- Supports **6V / 12V / 24V** battery systems  
+- Measures battery voltage and charge status  
+- Tracks charging and discharging behavior  
+- Logs historical battery data automatically  
 
-Compatibility: iOS & Android
+---
 
-Connection Type: Permanent battery connection
+## Mobile Application
 
-Key Features
+!!! tip "Smart Battery App"
+    The system connects via Bluetooth to the **Smart Battery** mobile application.
 
-Real-Time Battery Health Monitoring
-Displays live voltage and battery condition via the mobile app.
+**Application Features:**
+- Available for **iOS and Android**
+- Free download
+- Supports monitoring **multiple batteries**
+- Automatic data synchronization
+- Alert notifications for abnormal conditions
 
-Cranking System Test
-Monitors vehicle or system cranking performance.
+---
 
-Charging System Test
-Detects charging system behaviour and abnormalities.
+## Diagnostic Functions
 
-Bad Cell Detection
-Identifies potential battery cell faults early.
+!!! success "Advanced Diagnostics"
+    The ANCEL BM300 Pro provides diagnostic insights beyond simple voltage readings.
 
-Historical Data Storage
-Stores and displays previous battery data and test records.
+- Battery health analysis  
+- Cranking system testing  
+- Charging system verification  
+- Historical test records storage  
 
-Automatic Synchronisation
-Data syncs automatically to the app when connected.
+This helps identify weak batteries, charging issues, or system faults early.
 
-Alert Notifications
-Sends alerts for abnormal voltage or battery conditions.
+---
 
-Multi-Device Monitoring
-Allows monitoring of multiple batteries from one phone.
+## Electrical Safety & Protection
 
-Mobile Application
+!!! warning "Built-In Protection"
+    Designed for permanent installation and continuous operation.
 
-App Name: Smart Battery
+- Reverse polarity protection  
+- Short-circuit protection  
+- Ultra-low power consumption (**~1mA average**)  
+- Safe for long-term connection  
 
-Platform Support: Android & iOS
+---
 
-Cost: Free download
+## Installation Notes
 
-Functions:
+!!! note "Installation Information"
+    The battery monitor is pre-installed and permanently connected to the battery system.
 
-Live battery status
+- No user configuration required  
+- Operates automatically when the battery is connected  
+- Designed for DIY users and professional service environments  
 
-Historical data review
+---
 
-Alert notifications
+## Supported Use Cases
 
-Multi-battery management
+- Off-grid camping
+- Long-term battery health tracking
+- Preventative maintenance
+- Electrical system diagnostics
+- Multi-trailer or multi-battery monitoring
 
-Safety & Protection
+---
 
-The ANCEL BM300 Pro includes built-in protection features:
+## Summary
 
-Short-circuit protection
-
-Reverse connection protection
-
-These protections ensure safe operation when permanently connected to the battery.
-
-Installation Notes
-
-!!! note "Installation"
-The battery monitor is permanently connected to the battery terminals and requires no daily interaction once installed.
-
-The device is designed for:
-
-DIY users
-
-Camping trailers
-
-Battery service and maintenance
-
-Workshop or field diagnostics
-
-Warranty
-
-The ANCEL BM300 Pro includes manufacturer warranty coverage.
+!!! abstract "Why This Matters"
+    The ANCEL BM300 Pro adds an extra layer of reliability and confidence to your BreathTrailer’s power system by giving you **full visibility of battery performance at all times**.
