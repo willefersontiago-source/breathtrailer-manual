@@ -70,3 +70,9 @@ This manual will be updated as systems evolve — always refer to the **latest v
 ---
 
 © BreathTrailer • All rights reserved
+
+<p align="center">
+  <img src="assets/images/hero-trailer.jpg"
+       alt="BreathTrailer Overview"
+       style="max-width:100%; border-radius:16px;">
+</p>
