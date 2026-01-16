@@ -34,10 +34,11 @@ nav:
       - Coupling & Handbrake: 01-getting-started/03-coupling-handbrake.md
 
   - Power Systems:
-      - Battery Charging: 02-power/01-battery-charging.md
-      - 12V Power System: 02-power/02-power-12v.md
-      - Inverter & City Power: 02-power/03-inverter-city-power.md
-      - Solar Power: 02-power/04-solar.md
+    - Battery Charging: 02-power/01-battery-charging.md
+    - Battery Monitor (ANCEL BM300 Pro): 02-power/05-battery-monitor-ancel-bm300.md
+    - 12V Power System: 02-power/02-power-12v.md
+    - Inverter & City Power: 02-power/03-inverter-city-power.md
+    - Solar Power: 02-power/04-solar.md
 
   - Water Systems:
       - Hot Water System: 03-water/01-hot-water-kickass.md
