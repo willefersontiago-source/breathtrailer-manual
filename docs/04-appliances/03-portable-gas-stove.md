@@ -36,7 +36,7 @@ At Breath Trailer, we commonly use the **Coleman Triton 2 Burner Stove**, known 
 6. Ensure the regulator is correctly attached to the gas bottle  
 7. Slowly turn ON the gas supply  
 
-### Leak test (mandatory):
+## Leak test (mandatory):
 - Apply soapy water to all connections  
 - If bubbles appear:
   - Turn OFF the gas immediately  
