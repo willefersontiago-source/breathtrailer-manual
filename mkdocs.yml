@@ -76,3 +76,5 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+site_url: https://manual.breathtrailer.com
