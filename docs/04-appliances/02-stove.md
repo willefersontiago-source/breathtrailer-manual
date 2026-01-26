@@ -21,18 +21,9 @@ This compact and efficient cooktop delivers reliable cooking performance while m
 
 ## 🔥 Cooking Performance
 
-<div class="grid cards" markdown>
-
-- **Total Output**  
-  **9.7 MJ/h**
-
-- **Left Burner (Small)**  
-  **3.8 MJ/h**
-
-- **Right Burner (Large)**  
-  **5.9 MJ/h**
-
-</div>
+- **Total heat output:** 9.7 MJ/h  
+- **Left burner (Small):** 3.8 MJ/h  
+- **Right burner (Large):** 5.9 MJ/h  
 
 This configuration allows flexible cooking, from gentle simmering to higher-heat cooking.
 
@@ -40,25 +31,18 @@ This configuration allows flexible cooking, from gentle simmering to higher-heat
 
 ## 📐 Specifications
 
-<div class="grid cards" markdown>
+- **Model:** Dometic PI8022  
+- **Number of burners:** 2  
 
-- **Model**  
-  Dometic PI8022  
+### Power
+- **Burner 1 output:** 1.1 kW  
+- **Burner 2 output:** 1.8 kW  
 
-- **Number of Burners**  
-  2  
-
-- **Burner Output**  
-  Burner 1: 1.1 kW  
-  Burner 2: 1.8 kW  
-
-- **Dimensions**  
-  Width: 480 mm  
-  Depth: 370 mm  
-  Height: 80 mm  
-
-- **Net Weight**  
-  3.58 kg  
+### Size & Weight
+- **Width:** 480 mm  
+- **Depth:** 370 mm  
+- **Height:** 80 mm  
+- **Net weight:** 3.58 kg  
 
 </div>
 
