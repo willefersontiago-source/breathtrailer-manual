@@ -89,5 +89,4 @@ At Breath Trailer, we commonly use the **Coleman Triton 2 Burner Stove**, known 
     - Portable gas stoves are intended for **outdoor recreational use only**  
     - Always follow the stove manufacturer’s instructions  
     - Always comply with local gas safety regulations  
-    - If a gas smell is detected:
-      - Turn OFF
+    - If a gas smell is detected: Turn OFF
