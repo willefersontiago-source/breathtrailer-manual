@@ -25,7 +25,7 @@ Whether you are camping off-grid or connected to site power, this guide explains
   Clean water, grey water, hot water system, and kitchen sink
 
 - ❄️ **Appliances**  
-  Fridge operation and 12V systems
+  Fridge operation, stove and 12V systems
 
 - 🌤️ **Outdoor Equipment**  
   Awning, shower tent, and external features
