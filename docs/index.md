@@ -2,7 +2,7 @@
 
 **Official Technical & User Documentation**
 
-Designed for safe operation, off-grid camping, and everyday usability — this manual provides clear guidance on how to operate all systems installed in your **BreathTrailer** Essential/Plus/Ultra.
+Designed for safe operation, off-grid camping, and everyday usability — this manual provides clear guidance on how to operate all systems installed in your **BreathTrailer** Essential/Plus/Ultra/Max.
 
 ![BreathTrailer Overview](assets/images/hero-trailer.jpg)
 
