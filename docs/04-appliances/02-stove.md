@@ -44,8 +44,6 @@ This configuration allows flexible cooking, from gentle simmering to higher-heat
 - **Height:** 80 mm  
 - **Net weight:** 3.58 kg  
 
-</div>
-
 ---
 
 ## ⚠️ Safety Instructions
