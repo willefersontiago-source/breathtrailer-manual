@@ -48,6 +48,7 @@ nav:
   - Appliances:
       - Fridge: 04-appliances/01-fridge.md
       - Stove: 04-appliances/02-stove.md
+      - Portable Gas Stove: 04-appliances/03-portable-gas-stove.md
 
   - Outdoor Equipment:
       - Awning: 05-outdoor/01-awning-kings.md
