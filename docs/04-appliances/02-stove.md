@@ -1,4 +1,4 @@
-🔥 Stove – Dometic PI8022 (2 Burner Hotplate)
+🔥 Stove – Dometic PI8022 (2 Burner Hotplate) - Only for Breath Max
 
 The Breath Trailer is equipped with the Dometic PI8022 two-burner hotplate, designed specifically for camper and caravan use.
 This compact and efficient cooktop delivers reliable cooking performance while maximizing bench space and safety.
