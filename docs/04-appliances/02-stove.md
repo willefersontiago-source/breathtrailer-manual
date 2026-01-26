@@ -34,11 +34,11 @@ This configuration allows flexible cooking, from gentle simmering to higher-heat
 - **Model:** Dometic PI8022  
 - **Number of burners:** 2  
 
-### Power
+## Power
 - **Burner 1 output:** 1.1 kW  
 - **Burner 2 output:** 1.8 kW  
 
-### Size & Weight
+## Size & Weight
 - **Width:** 480 mm  
 - **Depth:** 370 mm  
 - **Height:** 80 mm  
