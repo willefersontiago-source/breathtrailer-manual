@@ -1,4 +1,4 @@
-# Hot Water System – KickAss
+# Hot Water System – KickAss - For Breath Max read paper manual.
 
 This section explains the operation and safe use of the **KickAss 6L Portable Instant Gas Hot Water System** installed in the BreathTrailer.
 
